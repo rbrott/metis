@@ -1,0 +1,12 @@
+.{
+    .name = "metis",
+    .version = "5.1.0",
+    .dependencies = .{},
+    .paths = .{
+        "GKlib",
+        "libmetis",
+        "include",
+        "build.zig",
+        "build.zig.zon",
+    },
+}
